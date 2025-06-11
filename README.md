@@ -1,14 +1,22 @@
 
 
-# ステップ3：プルリクエストをマージする
+# 終了
 
-あと少しです！❤️
-プルリクエストを[マージ](https://docs.github.com/en/get-started/learning-about-github/github-glossary#merge)できます！
+_おめでとうございます！このコースを修了しました！_
 
-⌨️ やること: プルリクエストをマージする
+<img src=https://octodex.github.com/images/benevocats.jpg alt=celebrate width=300 align=right>
 
-1. **Merge Pull Request** をクリックします。
-2. ブランチ my-resume を削除します（任意）。
-3. 約20秒待ってから、このページ（手順を表示しているページ）を更新してください。GitHub Actions が自動的に次のステップに更新されます。
+リポジトリで達成したすべてのタスクをまとめました。
+
+- マージコンフリクトが発生する理由を学びました。
+- 簡単なマージコンフリクトをVSCodeで解決しました。
+
+## 次は何をしましょうか？
+
+- GitHub Pages を使って、Markdown 形式の履歴書サイトを作成してみましょう！GitHub Pages コースでその方法を学びましょう。
+- このコースについてのご意見を、ぜひディスカッションボードにお寄せください。
+- 他の GitHub Skills コースを受講しましょう。
+- GitHub 入門ドキュメントをお読みください。
+- コントリビューションするプロジェクトを見つけるには、GitHub Explore をご覧ください。
 
 
